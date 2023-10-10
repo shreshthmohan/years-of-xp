@@ -1,0 +1,603 @@
+[
+  {
+    "programming_languages": [
+      {
+        "name": "C",
+        "created": "1972-01-01"
+      },
+      {
+        "name": "Java",
+        "created": "1995-05-23"
+      },
+      {
+        "name": "Python",
+        "created": "1989-12-20"
+      },
+      {
+        "name": "JavaScript",
+        "created": "1995-12-04"
+      },
+      {
+        "name": "C++",
+        "created": "1983-01-01"
+      },
+      {
+        "name": "C#",
+        "created": "2000-01-01"
+      },
+      {
+        "name": "Ruby",
+        "created": "1995-02-24"
+      },
+      {
+        "name": "Swift",
+        "created": "2014-06-02"
+      },
+      {
+        "name": "Go",
+        "created": "2009-11-10"
+      },
+      {
+        "name": "Rust",
+        "created": "2010-07-07"
+      },
+      {
+        "name": "Kotlin",
+        "created": "2011-07-20"
+      },
+      {
+        "name": "TypeScript",
+        "created": "2012-10-01"
+      },
+      {
+        "name": "PHP",
+        "created": "1994-06-08"
+      },
+      {
+        "name": "Perl",
+        "created": "1987-12-18"
+      },
+      {
+        "name": "Haskell",
+        "created": "1990-01-01"
+      },
+      {
+        "name": "R",
+        "created": "1993-08-01"
+      }
+    ]
+  },
+
+  {
+    "javascript_frameworks": [
+      {
+        "name": "React",
+        "created": "2013-05-29"
+      },
+      {
+        "name": "AngularJS",
+        "created": "2010-10-20"
+      },
+      {
+        "name": "Angular",
+        "created": "2016-09-14"
+      },
+      {
+        "name": "Vue.js",
+        "created": "2014-02-01"
+      },
+      {
+        "name": "Node.js",
+        "created": "2009-05-27"
+      },
+      {
+        "name": "Express.js",
+        "created": "2010-11-16"
+      },
+      {
+        "name": "jQuery",
+        "created": "2006-08-26"
+      },
+      {
+        "name": "Backbone.js",
+        "created": "2010-10-13"
+      },
+      {
+        "name": "D3.js",
+        "created": "2011-01-01"
+      },
+      {
+        "name": "Ember.js",
+        "created": "2011-12-08"
+      },
+      {
+        "name": "Svelte",
+        "created": "2016-11-29"
+      },
+      {
+        "name": "Next.js",
+        "created": "2016-10-25"
+      },
+      {
+        "name": "NestJS",
+        "created": "2017-02-01"
+      }
+    ]
+  },
+  {
+    "containerization_tools": [
+      {
+        "name": "Docker",
+        "created": "2013-03-20"
+      },
+      {
+        "name": "Kubernetes",
+        "created": "2014-06-06"
+      },
+      {
+        "name": "OpenShift",
+        "created": "2011-05-05"
+      },
+      {
+        "name": "containerd",
+        "created": "2017-03-15"
+      },
+      {
+        "name": "rkt (Rocket)",
+        "created": "2014-12-01"
+      },
+      {
+        "name": "Podman",
+        "created": "2017-12-11"
+      },
+      {
+        "name": "LXC (Linux Containers)",
+        "created": "2008-07-01"
+      },
+      {
+        "name": "Vagrant",
+        "created": "2010-01-20"
+      },
+      {
+        "name": "Mesos",
+        "created": "2009-11-20"
+      },
+      {
+        "name": "Nomad",
+        "created": "2015-09-02"
+      }
+    ]
+  },
+  {
+    "web_technologies": [
+      {
+        "name": "HTML",
+        "created": "1991-06-01"
+      },
+      {
+        "name": "CSS",
+        "created": "1996-12-17"
+      },
+      {
+        "name": "JavaScript",
+        "created": "1995-12-04"
+      },
+      {
+        "name": "XML",
+        "created": "1996-02-10"
+      },
+      {
+        "name": "Ajax",
+        "created": "1999-02-18"
+      },
+      {
+        "name": "REST",
+        "created": "2000-03-31"
+      },
+      {
+        "name": "jQuery",
+        "created": "2006-08-26"
+      },
+      {
+        "name": "JSON",
+        "created": "2001-07-01"
+      },
+      {
+        "name": "Bootstrap",
+        "created": "2011-08-19"
+      },
+      {
+        "name": "React",
+        "created": "2013-05-29"
+      },
+      {
+        "name": "Angular",
+        "created": "2010-09-14"
+      },
+      {
+        "name": "Vue.js",
+        "created": "2014-02-01"
+      },
+      {
+        "name": "Webpack",
+        "created": "2012-03-10"
+      },
+      {
+        "name": "Sass",
+        "created": "2006-11-28"
+      },
+      {
+        "name": "TypeScript",
+        "created": "2012-10-01"
+      },
+      {
+        "name": "GraphQL",
+        "created": "2012-10-01"
+      },
+      {
+        "name": "WebAssembly",
+        "created": "2015-06-17"
+      },
+      {
+        "name": "PWA (Progressive Web App)",
+        "created": "2015-06-16"
+      },
+      {
+        "name": "WebRTC",
+        "created": "2011-06-01"
+      }
+    ]
+  },
+  {
+    "classic_languages": [
+      {
+        "name": "Fortran",
+        "created": "1957-03-01"
+      },
+      {
+        "name": "COBOL",
+        "created": "1959-01-01"
+      },
+      {
+        "name": "LISP",
+        "created": "1958-05-01"
+      },
+      {
+        "name": "ALGOL",
+        "created": "1958-04-01"
+      },
+      {
+        "name": "Assembly Language",
+        "created": "1940s"
+      },
+      {
+        "name": "FORTRAN II",
+        "created": "1958-03-01"
+      },
+      {
+        "name": "BASIC",
+        "created": "1964-05-01"
+      },
+      {
+        "name": "PL/I",
+        "created": "1964-04-01"
+      },
+      {
+        "name": "APL",
+        "created": "1962-10-01"
+      },
+      {
+        "name": "COBOL-85",
+        "created": "1985-01-01"
+      }
+    ]
+  },
+  {
+    "infrastructure_as_code": [
+      {
+        "name": "Terraform",
+        "created": "2014-07-28"
+      },
+      {
+        "name": "Ansible",
+        "created": "2012-02-20"
+      },
+      {
+        "name": "Chef",
+        "created": "2009-01-15"
+      },
+      {
+        "name": "Puppet",
+        "created": "2005-06-17"
+      },
+      {
+        "name": "SaltStack",
+        "created": "2011-08-08"
+      },
+      {
+        "name": "CloudFormation",
+        "created": "2011-02-24"
+      },
+      {
+        "name": "Pulumi",
+        "created": "2017-03-15"
+      },
+      {
+        "name": "AWS CDK (Cloud Development Kit)",
+        "created": "2018-08-08"
+      },
+      {
+        "name": "Juju",
+        "created": "2011-05-04"
+      },
+      {
+        "name": "Otto",
+        "created": "2015-10-06"
+      },
+      {
+        "name": "DSC (Desired State Configuration)",
+        "created": "2014-04-03"
+      },
+      {
+        "name": "Nomad",
+        "created": "2015-09-02"
+      }
+    ]
+  },
+  {
+    "databases": [
+      {
+        "name": "Oracle Database",
+        "created": "1979-06-01"
+      },
+      {
+        "name": "MySQL",
+        "created": "1995-05-23"
+      },
+      {
+        "name": "PostgreSQL",
+        "created": "1989-07-08"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "created": "1989-04-01"
+      },
+      {
+        "name": "MongoDB",
+        "created": "2007-02-11"
+      },
+      {
+        "name": "SQLite",
+        "created": "2000-08-17"
+      },
+      {
+        "name": "Cassandra",
+        "created": "2008-03-01"
+      },
+      {
+        "name": "Redis",
+        "created": "2009-05-10"
+      },
+      {
+        "name": "CouchDB",
+        "created": "2005-02-01"
+      },
+      {
+        "name": "Neo4j",
+        "created": "2007-02-14"
+      },
+      {
+        "name": "DynamoDB",
+        "created": "2012-01-18"
+      },
+      {
+        "name": "MariaDB",
+        "created": "2009-10-29"
+      },
+      {
+        "name": "InfluxDB",
+        "created": "2013-03-26"
+      },
+      {
+        "name": "Elasticsearch",
+        "created": "2010-02-08"
+      },
+      {
+        "name": "Firebase Realtime Database",
+        "created": "2012-04-11"
+      },
+      {
+        "name": "RethinkDB",
+        "created": "2009-06-06"
+      }
+    ]
+  },
+  {
+    "databases2": [
+      {
+        "name": "Oracle Database",
+        "created": "1979-06-22"
+      },
+      {
+        "name": "MySQL",
+        "created": "1995-05-23"
+      },
+      {
+        "name": "PostgreSQL",
+        "created": "1989-07-08"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "created": "1989-04-01"
+      },
+      {
+        "name": "MongoDB",
+        "created": "2009-02-11"
+      },
+      {
+        "name": "Redis",
+        "created": "2009-05-10"
+      },
+      {
+        "name": "SQLite",
+        "created": "2000-08-17"
+      },
+      {
+        "name": "Cassandra",
+        "created": "2008-03-10"
+      },
+      {
+        "name": "CouchDB",
+        "created": "2005-03-11"
+      },
+      {
+        "name": "Neo4j",
+        "created": "2007-07-01"
+      },
+      {
+        "name": "MariaDB",
+        "created": "2009-10-29"
+      },
+      {
+        "name": "DynamoDB",
+        "created": "2012-01-18"
+      },
+      {
+        "name": "Elasticsearch",
+        "created": "2010-02-08"
+      },
+      {
+        "name": "Firebase Realtime Database",
+        "created": "2012-04-10"
+      },
+      {
+        "name": "Amazon Aurora",
+        "created": "2014-07-01"
+      },
+      {
+        "name": "InfluxDB",
+        "created": "2013-10-10"
+      }
+    ]
+  },
+  {
+    "version_control_systems": [
+      {
+        "name": "Git",
+        "created": "2005-04-07"
+      },
+      {
+        "name": "Subversion (SVN)",
+        "created": "2000-10-23"
+      },
+      {
+        "name": "Mercurial",
+        "created": "2005-04-19"
+      },
+      {
+        "name": "CVS (Concurrent Versions System)",
+        "created": "1986-10-17"
+      },
+      {
+        "name": "Perforce (Helix Core)",
+        "created": "1995-01-01"
+      },
+      {
+        "name": "Bazaar",
+        "created": "2005-12-14"
+      },
+      {
+        "name": "Darcs",
+        "created": "2002-04-15"
+      },
+      {
+        "name": "TFS (Team Foundation Server)",
+        "created": "2005-03-17"
+      },
+      {
+        "name": "RCS (Revision Control System)",
+        "created": "1982-03-31"
+      },
+      {
+        "name": "Fossil",
+        "created": "2005-08-31"
+      },
+      {
+        "name": "Bitbucket",
+        "created": "2008-09-29"
+      },
+      {
+        "name": "SourceGear Vault",
+        "created": "2003-03-01"
+      },
+      {
+        "name": "GNU Bazaar",
+        "created": "2005-12-14"
+      },
+      {
+        "name": "AWS CodeCommit",
+        "created": "2014-11-11"
+      },
+      {
+        "name": "Plastic SCM",
+        "created": "2007-06-01"
+      },
+      {
+        "name": "BitKeeper",
+        "created": "2000-05-04"
+      }
+    ]
+  },
+  {
+    "streaming_platforms": [
+      {
+        "name": "Apache Kafka",
+        "description": "A distributed event streaming platform that provides a publish-subscribe model for building real-time data pipelines and streaming applications.",
+        "website": "https://kafka.apache.org/",
+        "created": "2011-01-24"
+      },
+      {
+        "name": "Apache Pulsar",
+        "description": "An open-source distributed messaging and event streaming platform with a strong focus on performance, scalability, and durability.",
+        "website": "https://pulsar.apache.org/",
+        "created": "2017-09-22"
+      },
+      {
+        "name": "Amazon Kinesis",
+        "description": "A cloud-based platform for real-time data streaming and processing. Amazon Kinesis includes services like Kinesis Data Streams and Kinesis Data Analytics.",
+        "website": "https://aws.amazon.com/kinesis/",
+        "created": "2013-12-04"
+      },
+      {
+        "name": "Confluent Platform",
+        "description": "A distribution of Apache Kafka with additional tools and services, providing an enterprise-ready platform for building streaming data pipelines.",
+        "website": "https://www.confluent.io/",
+        "created": "2014-04-30"
+      },
+      {
+        "name": "RabbitMQ",
+        "description": "An open-source message broker that supports multiple messaging protocols and can be used for building scalable and distributed systems.",
+        "website": "https://www.rabbitmq.com/",
+        "created": "2007-09-12"
+      },
+      {
+        "name": "ActiveMQ",
+        "description": "An open-source message broker written in Java that supports the Java Message Service (JMS) API and can be used for building messaging systems.",
+        "website": "http://activemq.apache.org/",
+        "created": "2004-04-28"
+      },
+      {
+        "name": "NATS",
+        "description": "A lightweight and high-performance messaging system for building distributed and scalable systems.",
+        "website": "https://nats.io/",
+        "created": "2010-04-12"
+      },
+      {
+        "name": "MQTT (Message Queuing Telemetry Transport)",
+        "description": "A lightweight and open messaging protocol that is suitable for constrained devices and situations with low bandwidth.",
+        "website": "http://mqtt.org/",
+        "created": "1999-03-29"
+      }
+    ]
+  }
+]
